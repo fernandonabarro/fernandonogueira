@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 1,687 Contributions in the Year 2020
+> 🏆 1,689 Contributions in the Year 2020
  > 
 > 📦 610.4 kB Used in Github's Storage 
  > 
@@ -75,6 +79,10 @@ Ruby                     4 repos             █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://github.com/fernandonogueira/fernandonogueira/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
