@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,10 +49,14 @@ Sunday       105 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 4 mins        ██████████████░░░░░░░░░░░   56.84% 
+Kotlin                   2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.64% 
+HTML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
