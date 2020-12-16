@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-439479%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ```text
 Monday       127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
 Tuesday      157 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Wednesday    203 commits    █████░░░░░░░░░░░░░░░░░░░░   20.95% 
+Wednesday    205 commits    █████░░░░░░░░░░░░░░░░░░░░   21.16% 
 Thursday     150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Friday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Friday       148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
 Saturday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
 Sunday       107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
 
