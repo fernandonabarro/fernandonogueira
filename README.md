@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457119%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456950%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,7 +67,7 @@ Kotlin                   24 repos            ███████░░░░�
 Java                     18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69% 
 JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
 TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
 ```
 
