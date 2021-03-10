@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460692%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460693%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Tuesday      172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Wednesday    210 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
+Monday       154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
+Tuesday      171 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Wednesday    212 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
 Thursday     259 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54% 
 Friday       181 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75% 
 Saturday     58 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
