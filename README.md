@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 Monday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
 Tuesday      169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
 Wednesday    210 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
-Thursday     255 commits    █████░░░░░░░░░░░░░░░░░░░░   22.15% 
+Thursday     256 commits    █████░░░░░░░░░░░░░░░░░░░░   22.24% 
 Friday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
-Saturday     57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
+Saturday     56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.87% 
 Sunday       112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
 
 ```
