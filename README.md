@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330%20Thousand%20lines%20of%20code-blue)
 
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       452 commits    █████░░░░░░░░░░░░░░░░░░░░   21.3% 
+Monday       454 commits    █████░░░░░░░░░░░░░░░░░░░░   21.39% 
 Tuesday      333 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
 Wednesday    374 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
 Thursday     387 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
-Friday       297 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
+Friday       295 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 Saturday     99 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
 Sunday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
