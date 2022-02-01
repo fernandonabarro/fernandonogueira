@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C196%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330%20Thousand%20lines%20of%20code-blue)
@@ -25,18 +23,18 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    373 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
+🌞 Morning    372 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
 🌆 Daytime    917 commits    ██████████░░░░░░░░░░░░░░░   42.1% 
-🌃 Evening    673 commits    ███████░░░░░░░░░░░░░░░░░░   30.9% 
+🌃 Evening    674 commits    ███████░░░░░░░░░░░░░░░░░░   30.95% 
 🌙 Night      215 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.87%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       449 commits    █████░░░░░░░░░░░░░░░░░░░░   20.62% 
+Monday       450 commits    █████░░░░░░░░░░░░░░░░░░░░   20.66% 
 Tuesday      358 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
-Wednesday    384 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
+Wednesday    383 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.58% 
 Thursday     395 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
 Friday       313 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
 Saturday     107 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
@@ -75,5 +73,5 @@ Shell                    9 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fernandonogueira/fernandonogueira/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2022 00:20:38 UTC
+ Last Updated on 01/02/2022 04:13:40 UTC
 <!--END_SECTION:waka-->
